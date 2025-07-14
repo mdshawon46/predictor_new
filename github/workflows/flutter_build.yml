@@ -25,3 +25,4 @@ jobs:
         with:
           name: predictor_pro_release
           path: build/app/outputs/flutter-apk/app-release.apk
+          
