@@ -1,5 +1,5 @@
 
-package com.example.predictorpro
+package com.example.predictornew
 
 import io.flutter.embedding.android.FlutterActivity
 
